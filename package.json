@@ -1,0 +1,32 @@
+{
+  "name": "gulp-beauty-web",
+  "version": "1.0.0",
+  "description": "Simple gulp plugin that beautifies web files (js, html, css) by sending a beautify function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chamakits/gulp-beauty-web.git"
+  },
+  "keywords": [
+    "gulp",
+    "beautify",
+    "pretty",
+    "web",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Omar Ferrer",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/chamakits/gulp-beauty-web/issues"
+  },
+  "homepage": "https://github.com/chamakits/gulp-beauty-web",
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.2"
+  }
+}
